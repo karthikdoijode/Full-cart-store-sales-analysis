@@ -3,7 +3,9 @@
 ### Objective: The 'Full cart store' wants to create an annual sales report for 2022.So that, full cart store can understand their customers and grow their sales in year 2023
 
 #### Project description: 
-By using charts, pivot table, vlookup, slicer we are going to solve following questions 
+In order to analyse and solve the below questions of full cart store sales we are using charts, pivot table, vlookup, slicer and few more important functions of excel.
+
+#### Questions:
 - Compare the sales and orders using single chart
 - Which month got the highest sale and orders?
 - Who purchased more-Men or Women in 2022?
